@@ -7,12 +7,12 @@ with open("README.md", "r") as fh:
 setup(
     name='ActiveReign',
     version='1.0.5',
-    author = 'm8r0wn',
-    author_email = 'm8r0wn@protonmail.com',
+    author = 'DeldMi',
+    author_email = 'andre88444@gmail.com',
     description = 'A network enumeration and attack toolset',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/m8r0wn/ActiveReign',
+    url='https://github.com/DeldMi/ActiveReign',
     license='GPLv3',
     packages=find_packages(include=[
         "ar3", "ar3.*"
